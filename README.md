@@ -81,6 +81,10 @@ Install Playwright browsers:
 
 ```bash
 playwright install
+
+or 
+
+playwright install chromium ( only Chromium )
 ```
 
 ---
