@@ -214,12 +214,12 @@ email_scraper_runner.bat
 
 ## Google Maps Output
 ```
-Output/
+output/
 ```
 
 ## Email Scraper Output
 ```
-Scraped_records_email/
+final_output/
 ```
 
 ---
