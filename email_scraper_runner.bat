@@ -1,0 +1,2 @@
+scrapy crawl email_spider
+pause

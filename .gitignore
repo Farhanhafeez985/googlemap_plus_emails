@@ -1,0 +1,20 @@
+# Ignore Playwright browser context data
+playwright_data/
+
+# Ignore extracted extension files
+extracted_extension/
+
+# Ignore output files
+output/
+final_output/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+myenv/
+venv/
+
+# OS files
+.DS_Store
